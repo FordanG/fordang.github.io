@@ -10875,20 +10875,6 @@ h5,
   z-index: 0;
 }
 
-.navbar-brand:after {
-  position: absolute;
-  top: 50%;
-  left: -12px;
-  width: 40px;
-  height: 40px;
-  content: "";
-  background: #34c2f4;
-  z-index: -1;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
-  border-radius: 50%;
-}
-
 .navbar-brand span {
   color: #fff;
 }
