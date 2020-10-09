@@ -11813,6 +11813,14 @@ h5,
   color: rgba(0, 0, 0, 0.7);
 }
 
+.services-1 p {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.services-1 h3 {
+  color: #34c2f4;
+}
+
 .services-1:hover {
   background: #34c2f4;
 }
